@@ -1,0 +1,2 @@
+#!/bash/bin
+ls -a -l  && ls -a -l  ..  && ls -a -l /boot
